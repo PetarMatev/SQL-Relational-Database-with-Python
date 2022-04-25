@@ -7,6 +7,7 @@ My project consists of 7 separate files (5 of which are for each of the table) T
 Remaining two python files are the driver code and the database_query file. 
 
 Article (How to Create and Manipulate SQL Databases with Python): https://www.freecodecamp.org/news/connect-python-with-sql/
+
 Article (Designing a Relational Database and Creating an Entity Relationship Diagram):https://towardsdatascience.com/designing-a-relational-database-and-creating-an-entity-relationship-diagram-89c1c19320b2
 
 **Methods used**: a) Defining functions in Python, b) Database Implementation, c) Creating, Reading, Updating and Deleting data using SQL and Python)
