@@ -9,11 +9,7 @@ Remaining two python files are the driver code and the database_query file.
 Article (How to Create and Manipulate SQL Databases with Python): https://www.freecodecamp.org/news/connect-python-with-sql/
 Article (Designing a Relational Database and Creating an Entity Relationship Diagram):https://towardsdatascience.com/designing-a-relational-database-and-creating-an-entity-relationship-diagram-89c1c19320b2
 
-**Methods used**
-  -> Defining functions in Python
-  -> Database Implementation
-  -> Creating, Reading, Updating and Deleting data using SQL and Python
-
+**Methods used**: a) Defining functions in Python, b) Database Implementation, c) Creating, Reading, Updating and Deleting data using SQL and Python)
 **Technologies used**
   -> MySQL Community Server
   -> MySQL Python Connector
