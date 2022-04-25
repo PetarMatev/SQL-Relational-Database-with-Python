@@ -10,8 +10,4 @@ Article (How to Create and Manipulate SQL Databases with Python): https://www.fr
 Article (Designing a Relational Database and Creating an Entity Relationship Diagram):https://towardsdatascience.com/designing-a-relational-database-and-creating-an-entity-relationship-diagram-89c1c19320b2
 
 **Methods used**: a) Defining functions in Python, b) Database Implementation, c) Creating, Reading, Updating and Deleting data using SQL and Python)
-**Technologies used**
-  -> MySQL Community Server
-  -> MySQL Python Connector
-  -> PopSQL
-  -> Pycharm
+**Technologies used**: a)MySQL Community Server, b) MySQL Python Connector, c) PopSQL, d) Pycharm
