@@ -4,7 +4,8 @@
 
 
 I have used the article created by @thecraigd Craig Dickson to learn how to build my own Relational Database in MySQL using Python. 
-
+Article (How to Create and Manipulate SQL Databases with Python): https://www.freecodecamp.org/news/connect-python-with-sql/
+Article (Designing a Relational Database and Creating an Entity Relationship Diagram):https://towardsdatascience.com/designing-a-relational-database-and-creating-an-entity-relationship-diagram-89c1c19320b2
 
 **Methods used**
   -> Defining functions in Python
